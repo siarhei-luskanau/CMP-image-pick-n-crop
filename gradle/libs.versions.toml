@@ -6,7 +6,7 @@ javase = "3.4.1"
 jna = "5.16.0"
 kotlin = "2.0.21"
 compose = "1.7.3"
-agp = "8.2.2"
+agp = "8.7.3"
 androidx-activityCompose = "1.9.3"
 androidx-uiTest = "1.7.6"
 
