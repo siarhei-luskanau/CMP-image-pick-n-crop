@@ -3,7 +3,7 @@
 accompanistPermissions = "0.37.0"
 cmpImagePickNCrop = "1.0.8"
 javase = "3.4.1"
-jna = "5.14.0"
+jna = "5.16.0"
 kotlin = "2.0.21"
 compose = "1.7.1"
 agp = "8.2.2"
